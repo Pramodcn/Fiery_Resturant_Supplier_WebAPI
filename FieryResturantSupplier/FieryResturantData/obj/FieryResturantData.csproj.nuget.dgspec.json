@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj": {}
+  },
+  "projects": {
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj",
+        "projectName": "FieryResturantUnitTest",
+        "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj",
+        "projectName": "FieryResturantData",
+        "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj",
+        "projectName": "FieryResturantUnitTest",
+        "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\FieryResturantServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\FieryResturantServices.csproj",
+        "projectName": "FieryResturantServices",
+        "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\FieryResturantServices.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj",
+        "projectName": "FieryResturantSupplier",
+        "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\FieryResturantSupplier.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantSupplier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturant.Entites\\FieryResturant.Entites.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantData\\FieryResturantData.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantDTO\\FieryResturantDTO.csproj"
+              },
+              "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\FieryResturantServices.csproj": {
+                "projectPath": "D:\\FieryResturant\\FieryResturantSupplier\\FieryResturantServices\\FieryResturantServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

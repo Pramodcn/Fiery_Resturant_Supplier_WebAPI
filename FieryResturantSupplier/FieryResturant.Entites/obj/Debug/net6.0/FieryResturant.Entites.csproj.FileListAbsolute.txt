@@ -1,0 +1,14 @@
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\bin\Debug\net6.0\FieryResturant.Entites.deps.json
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\bin\Debug\net6.0\FieryResturant.Entites.runtimeconfig.json
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\bin\Debug\net6.0\FieryResturant.Entites.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\bin\Debug\net6.0\FieryResturant.Entites.pdb
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.csproj.AssemblyReference.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.AssemblyInfoInputs.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.AssemblyInfo.cs
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.csproj.CoreCompileInputs.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\refint\FieryResturant.Entites.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.pdb
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\FieryResturant.Entites.genruntimeconfig.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturant.Entites\obj\Debug\net6.0\ref\FieryResturant.Entites.dll

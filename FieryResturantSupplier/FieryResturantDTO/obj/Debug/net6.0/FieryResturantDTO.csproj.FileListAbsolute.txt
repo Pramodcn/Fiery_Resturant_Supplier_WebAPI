@@ -1,0 +1,15 @@
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\bin\Debug\net6.0\FieryResturantDTO.deps.json
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\bin\Debug\net6.0\FieryResturantDTO.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\bin\Debug\net6.0\FieryResturantDTO.pdb
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.csproj.AssemblyReference.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.AssemblyInfoInputs.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.AssemblyInfo.cs
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.csproj.CoreCompileInputs.cache
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\refint\FieryResturantDTO.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.pdb
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\ref\FieryResturantDTO.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\bin\Debug\net6.0\FieryResturant.Entites.dll
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\bin\Debug\net6.0\FieryResturant.Entites.pdb
+D:\FieryResturant\FieryResturantSupplier\FieryResturantDTO\obj\Debug\net6.0\FieryResturantDTO.csproj.CopyComplete
